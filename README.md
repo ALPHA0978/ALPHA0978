@@ -103,7 +103,7 @@ const manishRaj = {
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/manish-raj" target="_blank">
+  <a href="https://www.linkedin.com/in/manish-raj-2x145/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/manishraj_dev" target="_blank">
@@ -114,9 +114,6 @@ const manishRaj = {
   </a>
   <a href="mailto:manishraj.codex@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://portfolio-manishraj.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 
