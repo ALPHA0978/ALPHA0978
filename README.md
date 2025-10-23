@@ -112,7 +112,7 @@ const manishRaj = {
   <a href="https://instagram.com/manish_raj_0115" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:manishraj.dev@gmail.com">
+  <a href="mailto:manishraj.codex@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://portfolio-manishraj.vercel.app" target="_blank">
