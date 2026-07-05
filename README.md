@@ -36,24 +36,24 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h2 align="center"><img src="https://img.icons8.com/fluency/48/code.png" width="28" align="center" /> Tech Arsenal</h2>
+      <h2 align="center"><img src="./assets/header-tech.svg" height="40" /></h2>
       <br/>
       <div align="center">
-        <b><img src="https://img.icons8.com/fluency/48/monitor.png" width="20" align="center" /> Frontend</b><br/>
+        <b><img src="./assets/icon-frontend.svg" width="20" align="center" /> Frontend</b><br/>
         <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,ts,js,html,css,tailwind" height="40" />
         <br/><br/>
-        <b><img src="https://img.icons8.com/fluency/48/data-configuration.png" width="20" align="center" /> Backend & Database</b><br/>
+        <b><img src="./assets/icon-backend.svg" width="20" align="center" /> Backend & Database</b><br/>
         <img src="https://skillicons.dev/icons?i=nodejs,express,py,django,flask,java,mongodb,postgres,mysql" height="40" />
         <br/><br/>
-        <b><img src="https://img.icons8.com/fluency/48/cloud-sync.png" width="20" align="center" /> Cloud & DevOps</b><br/>
+        <b><img src="./assets/icon-cloud.svg" width="20" align="center" /> Cloud & DevOps</b><br/>
         <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,linux" height="40" />
         <br/><br/>
-        <b><img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" width="20" align="center" /> AI & Tools</b><br/>
+        <b><img src="./assets/icon-ai.svg" width="20" align="center" /> AI & Tools</b><br/>
         <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,vscode,figma,postman,redis" height="40" />
       </div>
     </td>
     <td width="50%" valign="top">
-      <h2 align="center"><img src="https://img.icons8.com/fluency/48/resume.png" width="28" align="center" /> About Me</h2>
+      <h2 align="center"><img src="./assets/header-about.svg" height="40" /></h2>
       <pre lang="typescript"><code>const manishRaj = {
   location: "India",
   role: "Full Stack Dev & AI Enthusiast",
@@ -62,12 +62,12 @@
   funFact: "I debug with console.log!"
 };</code></pre>
       <br/>
-      <h2 align="center"><img src="https://img.icons8.com/fluency/48/bullseye.png" width="28" align="center" /> Current Focus</h2>
+      <h2 align="center"><img src="./assets/header-focus.svg" height="40" /></h2>
       <ul>
-        <li><img src="https://img.icons8.com/fluency/48/telescope.png" width="16" /> Building <b>AI-powered web applications</b></li>
-        <li><img src="https://img.icons8.com/fluency/48/plant-under-sun.png" width="16" /> Learning <b>Microservices Architecture</b></li>
-        <li><img src="https://img.icons8.com/fluency/48/thinking-male.png" width="16" /> Exploring <b>Web3</b> and <b>Blockchain</b></li>
-        <li><img src="https://img.icons8.com/fluency/48/people-working-together.png" width="16" /> Open for <b>Open Source Projects</b></li>
+        <li><img src="./assets/icon-telescope.svg" width="16" /> Building <b>AI-powered web applications</b></li>
+        <li><img src="./assets/icon-book.svg" width="16" /> Learning <b>Microservices Architecture</b></li>
+        <li><img src="./assets/icon-web3.svg" width="16" /> Exploring <b>Web3</b> and <b>Blockchain</b></li>
+        <li><img src="./assets/icon-opensource.svg" width="16" /> Open for <b>Open Source Projects</b></li>
       </ul>
     </td>
   </tr>
@@ -77,7 +77,7 @@
 <hr/>
 <br/>
 
-<h2 align="center"><img src="https://img.icons8.com/fluency/48/combo-chart.png" width="35" align="center" /> GitHub Analytics</h2>
+<h2 align="center"><img src="./assets/header-stats.svg" height="40" /></h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alpha0978&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15" height="180em" />
@@ -100,7 +100,7 @@
 <hr/>
 <br/>
 
-<h2 align="center"><img src="https://img.icons8.com/fluency/48/trophy.png" width="35" align="center" /> Achievements & Contributions</h2>
+<h2 align="center"><img src="./assets/header-trophy.svg" height="40" /></h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=alpha0978&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
@@ -132,6 +132,6 @@
 <br/>
 
 <div align="center">
-  <h3><img src="https://img.icons8.com/fluency/48/quote-left.png" width="20" align="center" /> Code is like humor. When you have to explain it, it's bad. <img src="https://img.icons8.com/fluency/48/quote-right.png" width="20" align="center" /></h3>
+  <h3>"Code is like humor. When you have to explain it, it's bad."</h3>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 </div>
